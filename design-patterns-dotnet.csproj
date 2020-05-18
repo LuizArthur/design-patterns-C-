@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>design_patterns_dotnet</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="factoryPattern\Shape.cs" />
+    <Content Include="factoryPattern\Circle.cs" />
+    <Content Include="factoryPattern\Rectangle.cs" />
+    <Content Include="factoryPattern\Square.cs" />
+    <Content Include="factoryPattern\ShapeFactory.cs" />
+  </ItemGroup>
+</Project>
